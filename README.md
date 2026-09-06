@@ -1,4 +1,4 @@
 - [Настройка окружения](https://kreativ4.github.io/Programming/Labs/lab_0.docx)
-- Настройка github
+- [Настройка github](https://kreativ4.github.io/Programming/Labs/lab_01.docx)
 - Лабораторная работа 1
 - Лабораторная работа 2
