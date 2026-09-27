@@ -1,7 +1,7 @@
 - [Настройка окружения](https://kreativ4.github.io/Programming/Labs/lab_0.docx)
 - [Настройка github](https://kreativ4.github.io/Programming/Labs/Lab_01.docx)
 - [Лабораторная работа 1](https://kreativ4.github.io/Programming/Labs/Lab1.docx)
-- Лабораторная работа 2
+- [Лабораторная работа 2](https://kreativ4.github.io/Programming/Labs/Lab2.pdf)
 - Лабораторная работа 3
 - Лабораторная работа 4
 - Лабораторная работа 5
