@@ -2,7 +2,7 @@
 - [Настройка github](https://kreativ4.github.io/Programming/Labs/Lab_01.docx)
 - [Лабораторная работа 1](https://kreativ4.github.io/Programming/Labs/Lab1.docx)
 - [Лабораторная работа 2](https://kreativ4.github.io/Programming/Labs/Lab2.pdf)
-- Лабораторная работа 3
+- [Лабораторная работа 3](https://kreativ4.github.io/Programming/Labs/Lab3.docx)
 - Лабораторная работа 4
 - Лабораторная работа 5
 - [Титульный лист для ЛР](https://kreativ4.github.io/Programming/Labs/First_page.docx)
