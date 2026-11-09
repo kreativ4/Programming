@@ -6,4 +6,4 @@
 - [Лабораторная работа 4](https://kreativ4.github.io/Programming/Labs/Lab4.pdf)
 - Лабораторная работа 5
 - [Титульный лист для ЛР](https://kreativ4.github.io/Programming/Labs/First_page.docx)
-- ДЗ
+- [ДЗ](https://kreativ4.github.io/Programming/Labs/Домашнее задание.pdf)
